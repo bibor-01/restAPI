@@ -1,0 +1,61 @@
+{
+  "konyvek": [
+    {
+      "id": 1,
+      "nev": "Rejtő jenő",
+      "cim": "Az elveszett cirkáló",
+      "ar": 1290,
+      "kategoria": "regény"
+    },
+    {
+      "id": 2,
+      "nev": "Lackfi JánoaASD",
+      "cim": "Apám kakasaASD",
+      "ar": "1300",
+      "kategoria": "vers"
+    },
+    {
+      "id": 3,
+      "nev": "Stephenie Meyer",
+      "cim": "Twilight - Alkonyat",
+      "ar": 1000,
+      "kategoria": "fantasy"
+    },
+    {
+      "id": 4,
+      "nev": "J. L. Armentrout",
+      "cim": "Obszidián (Luxen 1.)",
+      "ar": 3490,
+      "kategoria": "fantasy"
+    },
+    {
+      "nev": "Lackfi János2",
+      "cim": "Apám kakasa2",
+      "ar": "1300",
+      "kategoria": "vers2",
+      "id": 5
+    }
+  ],
+  "szerzo": [
+    {
+      "id": 1,
+      "nev": "Rejtő jenő",
+      "szül év": 1990
+    },
+    {
+      "id": 2,
+      "nev": "Lackfi János",
+      "szül év": 1980
+    },
+    {
+      "id": 3,
+      "nev": "Stephenie Meyer",
+      "szül év": 1973
+    },
+    {
+      "id": 4,
+      "nev": "J. L. Armentrout",
+      "szül év": 1980
+    }
+  ]
+}
